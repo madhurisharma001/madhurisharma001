@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Madhuri Sharma 👋
 
-<!--
-**madhurisharma001/madhurisharma001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Interests:
+- Data Structures & Algorithms
+- Data Analytics
+- Artificial Intelligence
+- Open Source Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Also Interested In:
+- Product Management
+- Business Strategy
+- Leadership
+
+🌱 Currently Learning:
+- DSA in C++
+- Data Analytics
+- Git & GitHub
+
+🚀 Goals:
+- Contribute to GSSoC
+- Build Real-World Projects
+- Improve Problem-Solving Skills
