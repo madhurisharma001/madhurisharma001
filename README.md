@@ -1,24 +1,24 @@
 # Hi, I'm Madhuri Sharma 👋
 
-🎓 B.Tech Computer Science Student
+ B.Tech Computer Science Student
 
-💻 Interests:
+ Interests:
 - Data Structures & Algorithms
 - Data Analytics
 - Artificial Intelligence
 - Open Source Development
 
-📈 Also Interested In:
+ Also Interested In:
 - Product Management
 - Business Strategy
 - Leadership
 
-🌱 Currently Learning:
+ Currently Learning:
 - DSA in C++
 - Data Analytics
 - Git & GitHub
 
-🚀 Goals:
+ Goals:
 - Contribute to GSSoC
 - Build Real-World Projects
 - Improve Problem-Solving Skills
